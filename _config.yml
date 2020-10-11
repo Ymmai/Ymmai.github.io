@@ -229,7 +229,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://github.com/Ymmai/ymmai.github.com/blob/master/assets/image/background.jpg  
+              img: https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%9B%9B%E5%AE%AB%E8%BE%89%E5%A4%9C%E5%A4%B4%E5%83%8F&step_word=&hs=2&pn=21&spn=0&di=12760&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1468947121%2C3099569473&os=4003848345%2C1184730807&simid=3355926108%2C159844080&adpicid=0&lpn=0&ln=912&fr=&fmq=1602412141019_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E8%BE%89%E5%A4%9C%E5%A4%A7%E5%B0%8F%E5%A7%90%E5%A4%B4%E5%83%8F&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201902%2F23%2F20190223222630_tqvgo.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3D8am9mdbbbd&gsm=16&rpstart=0&rpnum=0&islist=&querylist=&force=undefined  
 	# https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
